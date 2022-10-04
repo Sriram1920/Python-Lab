@@ -5,6 +5,9 @@ Even or odd
 ![image](https://user-images.githubusercontent.com/112625430/193737789-6a2d78d4-654e-43a3-a2f7-75815a599505.png)
 isomorpic 
 ![image](https://user-images.githubusercontent.com/112625430/193738148-f42cdf48-8104-47c8-a68d-8eec99460bc4.png)
+Modify string
+![image](https://user-images.githubusercontent.com/112625430/193738385-cf3f3783-ba07-47ea-9f41-584b6ca2d92d.png)
+
 
 
 
